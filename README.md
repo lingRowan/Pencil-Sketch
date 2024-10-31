@@ -37,4 +37,4 @@ pip install opencv-python numpy matplotlib
 ## Example
 Below are examples of the original image and its corresponding pencil sketch output:
 
-![Original Image](<Input_and_Output>)
+![Original Image](<Input_and_Output.png>)
